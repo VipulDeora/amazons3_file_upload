@@ -1,6 +1,8 @@
-# AdvanceRequest
+# AmazonS3_File_Upload
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
+Fill in your credentials wherever necessary in the code.
+Run npm install
 
 ## Development server
 
